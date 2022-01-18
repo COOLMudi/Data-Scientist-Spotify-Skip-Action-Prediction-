@@ -33,6 +33,19 @@ I am skilled in Python Language, Data Science and ML , Data Visualisation and Ke
 
 [Bankruptcy Predictor App](https://spotify-skip-prediction-app.herokuapp.com/)
 
+
+## WEB APPLICATION
+
+[Spotify Skip Predictor  App on deployed on Heroku](https://spotify-skip-prediction-app.herokuapp.com/)
+
+![Web App 1](https://github.com/COOLMudi/Data-Scientist-Spotify-Skip-Action-Prediction-/blob/main/Project%20images/web1.PNG)
+
+![Web App 2](https://github.com/COOLMudi/Data-Scientist-Spotify-Skip-Action-Prediction-/blob/main/Project%20images/web2.PNG)
+
+![Web App 3](https://github.com/COOLMudi/Data-Scientist-Spotify-Skip-Action-Prediction-/blob/main/Project%20images/web3.PNG)
+
+
+
 ## EDA Analysis and Feature Engineering Summary
 
 ![Analysis 1](https://github.com/COOLMudi/Data-Scientist-Spotify-Skip-Action-Prediction-/blob/main/Project%20images/1.PNG)
@@ -48,3 +61,5 @@ I am skilled in Python Language, Data Science and ML , Data Visualisation and Ke
 ![Feature Engineering 1](https://github.com/COOLMudi/Data-Scientist-Spotify-Skip-Action-Prediction-/blob/main/Project%20images/7.PNG)
 
 ![Feature Engineering 2](https://github.com/COOLMudi/Data-Scientist-Spotify-Skip-Action-Prediction-/blob/main/Project%20images/6.PNG)
+
+
