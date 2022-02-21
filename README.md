@@ -4,8 +4,10 @@ Music providers are also incentivized to recommend songs that their users like i
 ## 🚀 About Me
 Hola, mi nombre es Mudit 
 I'm a Machine Learning and Data Science Enthusiast.
-I am interested in Business Anlaytics and Market Research as well as Predictve Finance Analysis.
-I am skilled in Python Language, Data Science and ML , Data Visualisation and Keras/ Tensorflow, Stramlit and Business Anlaytics.
+I am interested in Business Analytics and Market Research as well as Predictve Finance Analysis.
+I am skilled in Python Language, SQL, C++, Data Science and ML , Data Visualisation and Keras/ Tensorflow, Stramlit and Analytics.
+Do checkout my repo!!
+Gracias :)
 
 ## PROCESS OF PROJECT
 
